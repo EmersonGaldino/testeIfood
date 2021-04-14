@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifood.test.galdino.api", "ifood.test.galdino\ifood.test.galdino.api.csproj", "{282875B2-A8AF-4161-AD83-BCD21393C83E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Application", "01 - Application", "{01BC4284-AF6F-4DE2-AAB9-B0E5F673F927}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Domain", "02 - Domain", "{59D34D27-82EA-4737-92B8-F41EEA401EFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - repository", "04 - repository", "{C5FDCDA3-C42E-4F88-9341-A1BCEB4A25DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifood.test.galdino.domain", "ifood.test.galdino.domain\ifood.test.galdino.domain.csproj", "{7806C8DC-16B9-41A8-8BE3-9006D9BABDA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifood.test.galdino.repository", "ifood.test.galdino.repository\ifood.test.galdino.repository.csproj", "{A2FFCF77-12ED-4153-8E8D-C7B716F4C5F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Core", "03 - Core", "{4E90854F-653A-4C44-A8A1-A73CBD603886}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifood.test.galdino.service", "ifood.test.galdino.service\ifood.test.galdino.service.csproj", "{BBE66704-4FDC-4B83-B2EC-8714B174DBC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Scripts", "05 - Scripts", "{A2A224BB-803C-444A-AC65-8D6CAB212F05}"
+	ProjectSection(SolutionItems) = preProject
+		Scripts.sql = Scripts.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{282875B2-A8AF-4161-AD83-BCD21393C83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282875B2-A8AF-4161-AD83-BCD21393C83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282875B2-A8AF-4161-AD83-BCD21393C83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282875B2-A8AF-4161-AD83-BCD21393C83E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7806C8DC-16B9-41A8-8BE3-9006D9BABDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7806C8DC-16B9-41A8-8BE3-9006D9BABDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7806C8DC-16B9-41A8-8BE3-9006D9BABDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7806C8DC-16B9-41A8-8BE3-9006D9BABDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2FFCF77-12ED-4153-8E8D-C7B716F4C5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FFCF77-12ED-4153-8E8D-C7B716F4C5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FFCF77-12ED-4153-8E8D-C7B716F4C5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FFCF77-12ED-4153-8E8D-C7B716F4C5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE66704-4FDC-4B83-B2EC-8714B174DBC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE66704-4FDC-4B83-B2EC-8714B174DBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE66704-4FDC-4B83-B2EC-8714B174DBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE66704-4FDC-4B83-B2EC-8714B174DBC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{282875B2-A8AF-4161-AD83-BCD21393C83E} = {01BC4284-AF6F-4DE2-AAB9-B0E5F673F927}
+		{7806C8DC-16B9-41A8-8BE3-9006D9BABDA2} = {59D34D27-82EA-4737-92B8-F41EEA401EFD}
+		{A2FFCF77-12ED-4153-8E8D-C7B716F4C5F4} = {C5FDCDA3-C42E-4F88-9341-A1BCEB4A25DC}
+		{BBE66704-4FDC-4B83-B2EC-8714B174DBC6} = {4E90854F-653A-4C44-A8A1-A73CBD603886}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E96D107B-EA1B-458A-A242-5CFF99717F04}
+	EndGlobalSection
+EndGlobal

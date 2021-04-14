@@ -1,0 +1,24 @@
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\bin\Debug\net5.0\ifood.test.galdino.domain.deps.json
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\bin\Debug\net5.0\ifood.test.galdino.domain.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\bin\Debug\net5.0\ref\ifood.test.galdino.domain.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\bin\Debug\net5.0\ifood.test.galdino.domain.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.csprojAssemblyReference.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.AssemblyInfoInputs.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.AssemblyInfo.cs
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.csproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ref\ifood.test.galdino.domain.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.pdb
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\bin\Debug\net5.0\ifood.test.galdino.domain.deps.json
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\bin\Debug\net5.0\ifood.test.galdino.domain.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\bin\Debug\net5.0\ref\ifood.test.galdino.domain.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\bin\Debug\net5.0\ifood.test.galdino.domain.pdb
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.csprojAssemblyReference.cache
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.AssemblyInfoInputs.cache
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.AssemblyInfo.cs
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.csproj.CoreCompileInputs.cache
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ref\ifood.test.galdino.domain.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino.domain\obj\Debug\net5.0\ifood.test.galdino.domain.pdb

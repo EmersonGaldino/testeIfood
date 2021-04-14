@@ -1,0 +1,131 @@
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\appsettings.json
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.api.exe
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.api.deps.json
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.api.runtimeconfig.json
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.api.runtimeconfig.dev.json
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.api.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ref\ifood.test.galdino.api.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.api.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.csprojAssemblyReference.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.AssemblyInfoInputs.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.AssemblyInfo.cs
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.csproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\staticwebassets\ifood.test.galdino.api.StaticWebAssets.Manifest.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\staticwebassets\ifood.test.galdino.api.StaticWebAssets.xml
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\scopedcss\bundle\ifood.test.galdino.api.styles.css
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.RazorTargetAssemblyInfo.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.csproj.CopyComplete
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ref\ifood.test.galdino.api.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.genruntimeconfig.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.domain.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.Http.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Polly.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Polly.Extensions.Http.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emers\OneDrive\Área de Trabalho\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.domain.pdb
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\appsettings.Development.json
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\appsettings.json
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.api.exe
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.api.deps.json
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.api.runtimeconfig.json
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.api.runtimeconfig.dev.json
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.api.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ref\ifood.test.galdino.api.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.api.pdb
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\EntityFramework.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.Http.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.Http.Polly.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Polly.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Polly.Extensions.Http.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\System.CodeDom.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.domain.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.domain.pdb
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.csprojAssemblyReference.cache
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.AssemblyInfoInputs.cache
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.AssemblyInfo.cs
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.csproj.CoreCompileInputs.cache
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.MvcApplicationPartsAssemblyInfo.cs
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.MvcApplicationPartsAssemblyInfo.cache
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\staticwebassets\ifood.test.galdino.api.StaticWebAssets.Manifest.cache
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\staticwebassets\ifood.test.galdino.api.StaticWebAssets.xml
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\scopedcss\bundle\ifood.test.galdino.api.styles.css
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.RazorTargetAssemblyInfo.cache
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.csproj.CopyComplete
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ref\ifood.test.galdino.api.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.pdb
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\obj\Debug\net5.0\ifood.test.galdino.api.genruntimeconfig.cache
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Dapper.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Abstractions.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Extensions.Oracle.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Extensions.Postgres.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Extensions.SqlAnywhere.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Extensions.SqlServer.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Runner.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Runner.Core.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Runner.Db2.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Runner.Firebird.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Runner.Hana.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Runner.MySql.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Runner.Oracle.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Runner.Postgres.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Runner.Redshift.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Runner.SqlAnywhere.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Runner.SQLite.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Runner.SqlServer.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentMigrator.Runner.SqlServerCe.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\System.Data.SqlServerCe.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\de-DE\FluentMigrator.Abstractions.resources.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.repository.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.repository.pdb
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\FluentValidation.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.service.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\ifood.test.galdino.service.pdb
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Npgsql.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\AutoMapper.dll
+D:\Ifood\Back\ifood.test.galdino\ifood.test.galdino\bin\Debug\net5.0\Dapper.Contrib.dll

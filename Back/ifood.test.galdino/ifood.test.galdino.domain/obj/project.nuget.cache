@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZQvyP+fgc/LvfSMFLJBzfcan5OQqxG6XWkXFs2AdXSzQj5V9dDqhgRWhlzM3/hE6CmPFllN7fVZSObaYOxsEqA==",
+  "success": true,
+  "projectFilePath": "D:\\Ifood\\Back\\ifood.test.galdino\\ifood.test.galdino.domain\\ifood.test.galdino.domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emers\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
