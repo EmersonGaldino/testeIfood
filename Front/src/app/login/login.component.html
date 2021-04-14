@@ -1,0 +1,39 @@
+<div id="login-page" class="row">
+  <div class="col s8 z-depth-6 card-panel">
+    <form
+      class="login-form"
+      [formGroup]="loginForm"
+      (ngSubmit)="onSubmit()">
+      <div class="row">
+      </div>
+
+      <div class="row">
+        <div class="input-field col s12">
+          <i class="material-icons prefix">account_box</i>
+          <input class="validate" id="login" type="text" formControlName="login">
+          <label for="login" data-error="wrong" data-success="right">Login</label>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="input-field col s12">
+          <i class="material-icons prefix">lock_outline</i>
+          <input id="password" type="password" formControlName="password">
+          <label for="password">Senha</label>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="input-field col s5">
+
+          <button
+            class="btn waves-effect waves-light col s12"
+            type="submit">
+            Logar
+          </button>
+        </div>
+      </div>
+
+    </form>
+  </div>
+</div>

@@ -1,0 +1,106 @@
+<mat-card>
+  <form class="example-form"
+        [formGroup]="createForm"
+        (ngSubmit)="onSubmit(edit)">
+    <mat-grid-list cols="2" rowHeight="2:1">
+      <mat-grid-tile>
+        <div class="row">
+          <input
+            matInput
+            placeholder="Descrição"
+            formControlName="description"
+            id="description"
+            class="validate"
+            value="[data.description]"
+          />
+
+          <input
+            matInput
+            placeholder="Valor"
+            formControlName="value"
+            id="value"
+            type="number"
+            class="validate"
+            value="[data.value]"
+          />
+
+          <input
+            matInput
+            placeholder="Imagem do produto"
+            formControlName="image"
+            id="image"
+            class="validate"
+            value="[data.image]"
+          />
+          <div *ngIf="edit; then editar else salvar"></div>
+          <ng-template #salvar>
+            <button
+              class="waves-effect waves-light btn"
+              type="submit">
+              Salvar
+            </button>
+            </ng-template>
+
+            <ng-template #editar>
+              <button
+                class="waves-effect waves-light btn"
+                type="submit">
+                Editar
+              </button>
+              </ng-template>
+
+        </div>
+      </mat-grid-tile>
+    </mat-grid-list>
+
+  </form>
+</mat-card>
+
+<mat-card>
+  <table mat-table [dataSource]="products" class="mat-elevation-z8">
+    <ng-container matColumnDef="id">
+      <th mat-header-cell *matHeaderCellDef>#</th>
+      <td mat-cell *matCellDef="let element" id="id"> {{element.id}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Descrição">
+      <th mat-header-cell *matHeaderCellDef> Descrição</th>
+      <td mat-cell *matCellDef="let element"> {{element.description}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Valor">
+      <th mat-header-cell *matHeaderCellDef> Valor</th>
+      <td mat-cell *matCellDef="let element">R$ {{element.value.toLocaleString('pt-br',{ minimumFractionDigits: 2})}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Imagem">
+      <th mat-header-cell *matHeaderCellDef> Imagem</th>
+      <td mat-cell *matCellDef="let element">
+        <img width="100" height="100" src="{{element.image}} "/>
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Ativo">
+      <th mat-header-cell *matHeaderCellDef></th>
+      <td mat-cell *matCellDef="let element">
+        <button
+          class="btn-small waves-effect waves-light"
+          name="action"
+          (click)="loadOne(element.id)">Editar
+          <i class="material-icons right">edit</i>
+        </button>
+        {{' '}}
+        <button
+          class="btn-small waves-effect waves-light red"
+          name="action"
+          (click)="delete(element.id)">Deletar
+          <i class="material-icons right ">delete</i>
+        </button>
+
+      </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayColumns;"></tr>
+  </table>
+</mat-card>
