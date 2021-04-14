@@ -70,7 +70,6 @@ export class ProductsComponent implements OnInit {
       image: data.image,
       active: true
     });
-    console.log(this.createForm);
   }
 
   // tslint:disable-next-line:typedef
@@ -88,9 +87,7 @@ export class ProductsComponent implements OnInit {
   }
 
   onSubmit(edit: boolean): void {
-    console.log(this.createForm.value);
     if (this.createForm.valid) {
-      console.log('Submit');
       if (edit){
         this.service.update(this.createForm.value).subscribe(
           success => {

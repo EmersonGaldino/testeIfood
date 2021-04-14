@@ -17,7 +17,6 @@ export class LoginService {
 
   // tslint:disable-next-line:typedef
   post(user: User){
-    console.log(user);
     return this.http.post<any>(this.API , user);
   }
 }

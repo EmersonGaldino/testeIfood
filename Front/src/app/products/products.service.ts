@@ -23,7 +23,6 @@ export class ProductsService {
   }
   // tslint:disable-next-line:typedef
   update(product: any){
-    console.log('Server => ', product);
      return this.http.put(this.API + '/' + product.id, product).pipe(take(1));
   }
   // tslint:disable-next-line:typedef
