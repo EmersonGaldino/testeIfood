@@ -1,8 +1,8 @@
 import { Injectable } from '@angular/core';
 import {HttpClient} from '@angular/common/http';
 import {take} from 'rxjs/operators';
-import {User} from './User';
-import {Response} from './Response';
+import {User} from '../models/User/User';
+import {Response} from '../models/User/Response';
 
 @Injectable({
   providedIn: 'root'

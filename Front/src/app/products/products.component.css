@@ -1,4 +1,25 @@
 table {
   width: 100%;
-  maxHeight: 400px
 }
+
+.table-products{
+  max-height: 600px;
+  overflow-y: auto;
+}
+
+#line_description{
+  max-width: 25ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+th{
+  position: relative;
+}
+
+/*tr{*/
+/*  transition: transform .2s;*/
+/*}*/
+/*tr:hover{*/
+/*  transform: scale(1.1);*/
+/*}*/

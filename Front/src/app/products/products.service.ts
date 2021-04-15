@@ -1,6 +1,6 @@
 import {EventEmitter, Injectable } from '@angular/core';
 import {HttpClient} from '@angular/common/http';
-import {Product} from './Product';
+import {Product} from '../models/Product/Product';
 import {take} from 'rxjs/operators';
 
 @Injectable({

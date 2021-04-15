@@ -18,12 +18,17 @@ import {MatCardModule} from '@angular/material/card';
 import {MatSnackBarModule} from '@angular/material/snack-bar';
 import {MatGridListModule} from '@angular/material/grid-list';
 import {AuthGuardService} from './guards/auth-guard.service';
+import { ToolbarComponent } from './toolbar/toolbar.component';
+import {MatToolbarModule} from '@angular/material/toolbar';
+import {MatIconModule} from '@angular/material/icon';
+import {MatChipsModule} from '@angular/material/chips';
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
     ProductsComponent,
+    ToolbarComponent,
   ],
   imports: [
     BrowserModule,
@@ -38,7 +43,10 @@ import {AuthGuardService} from './guards/auth-guard.service';
     MatCardModule,
     MatSnackBarModule,
     CommonModule,
-    MatGridListModule
+    MatGridListModule,
+    MatToolbarModule,
+    MatIconModule,
+    MatChipsModule
   ],
   providers: [AuthGuardService],
   bootstrap: [AppComponent]

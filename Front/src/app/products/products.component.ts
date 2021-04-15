@@ -1,8 +1,7 @@
-import {AfterViewInit, Component, OnInit, ViewChild} from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import {ProductsService} from './products.service';
-import {FormBuilder, FormGroup, Validator} from '@angular/forms';
-import {Product} from './Product';
-import {MatPaginator} from '@angular/material/paginator';
+import {FormBuilder} from '@angular/forms';
+import {Product} from '../models/Product/Product';
 import {MatSnackBar} from '@angular/material/snack-bar';
 
 export interface MessageLoading {
@@ -38,7 +37,6 @@ export class ProductsComponent implements OnInit {
     active: true
   });
 
-
   constructor(
     private fb: FormBuilder,
     private service: ProductsService,
@@ -49,20 +47,23 @@ export class ProductsComponent implements OnInit {
 
   ngOnInit(): void {
     this.service.list().subscribe(data => this.products = data);
+    this.openSnackBar(this.messageLoading.message, this.messageLoading.action);
   }
+
 
   onLoad(): void {
     this.service.list().subscribe(data => this.products = data);
   }
 
-  // tslint:disable-next-line:typedef
   loadOne(product: number): void {
      this.service.getOne(product).subscribe(data => this.setValues(data));
+
   }
 
   setValues(item: any): void{
     let { data } = item;
     this.edit = true;
+    this.openSnackBar(`Editar produto ${data.description}`, 'Alter');
     this.createForm.patchValue({
       id: data.id,
       description: data.description,
@@ -72,7 +73,6 @@ export class ProductsComponent implements OnInit {
     });
   }
 
-  // tslint:disable-next-line:typedef
   delete(product: number): void {
     this.service.delete(product).subscribe(() => {
       this.onLoad();
@@ -82,7 +82,7 @@ export class ProductsComponent implements OnInit {
 
   openSnackBar(message: string, action: string): void {
     this.snackbar.open(message, action, {
-      duration: 2000,
+      duration: 3000,
     });
   }
 
